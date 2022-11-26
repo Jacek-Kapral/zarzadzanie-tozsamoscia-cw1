@@ -1,0 +1,20 @@
+Lista nr 1:
+
+1.
+Gr. I:
+Inne niż biznesowe:
+Imię i nazwisko, dane biometryczne, numer karty debetowej
+
+Wewnętrzne:
+ID pracownika
+
+Gr. II:
+Inne, niż biznesowe:
+Imię i nazwisko, historia choroby, zawód
+
+Ogólne:
+Nazwa stanowiska.
+
+Mój komentarz do zadania: 
+Dla jasności, nie dla czepiania się :) 
+Biorąc pod uwagę, że pewne pozycje są tu niedoprecyzowane (karta debetowa służbowa, czy prywatna?; zawód wyuczony danego pracownika, czy wykonywany?), to w teorii mogłyby się znaleźć w innej, lub więcej niż jedna pozycji, natomiast spodziewam się, że w środowisku firmowym, gdzie dbałość o dane będzie podlegała dużo jaśniejszym i mniej ogólnym zasadom, to będzie zdecydowanie bardziej "poukładane" i jaśniejsze.
