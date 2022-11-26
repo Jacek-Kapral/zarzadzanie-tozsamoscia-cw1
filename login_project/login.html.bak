@@ -8,6 +8,7 @@
 </head>
 
 <body>
+<center>
   <main id="main-holder">
     <h1 id="login-header">Login</h1>
 
@@ -18,5 +19,6 @@
     </form>
 
   </main>
+</center>
 </body>
 </html>
