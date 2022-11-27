@@ -2,25 +2,28 @@
 <html lang="en">
 
 <head>
-  <link rel="stylesheet" href="login.css">
-   <script src="login.js"></script> 
   <meta charset="UTF-8">
-  <title>Simple login form</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Logowanie</title>
+  <link rel="stylesheet" href="login.css">
+  <script defer src="login.js"></script>
 </head>
 
 <body>
   <main id="main-holder">
-    <h1 id="login-header">Prosty formularz logowania</h1>
-	<!--najwazniejszy fragment kodu upiekszajacego strone logowania-->
-    <img src=cattyping.gif>
+    <h1 id="login-header">Zaloguj sie!</h1>
+    
     <div id="login-error-msg-holder">
-      <p id="login-error-msg">Wpisano zły login <span id="error-msg-second-line"> lub (oraz) hasło.</span></p>
-    <form id="login-form"><!-- edytowane placeholdery, zeby bylo lepiej zrozumiale dla rodakow-->
-      <input type="text" name="username" id="username-field" class="login-form-field" placeholder="Nazwa uzytkownika">
-      <input type="password" name="password" id="password-field" class="login-form-field" placeholder="Haslo">
+      <p id="login-error-msg">Zly login <span id="error-msg-second-line">lub / i haslo!</span></p>
+    </div>
+    
+    <form id="login-form">
+      <input type="text" name="username" id="username-field" class="login-form-field" placeholder="Username">
+      <input type="password" name="password" id="password-field" class="login-form-field" placeholder="Password">
       <input type="submit" value="Login" id="login-form-submit">
-      <div id="login-error-msg-holder">
-	</form>
+    </form>
+	  <center><img src=cattyping.gif /></center>
   </main>
 </body>
+
 </html>
